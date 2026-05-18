@@ -1,4 +1,4 @@
-name = "1instant-push"
+name = "2instant-push"
 main = "src/index.ts"
 compatibility_date = "2026-01-01"
 # amsg-instant 0.3.0+ uses only Web Crypto; no compatibility_flags needed.
